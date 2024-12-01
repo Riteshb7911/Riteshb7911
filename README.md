@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ritesh Bankar
- 🌱 I’m currently learning **Power BI, SQL, Advanced Excel, Python Machine Learning**
+ 🌱 I’m currently learning **Power BI, SQL, Advanced Excel, Python and Machine Learning**
  
 📫 How to reach me **riteshb7911@gmail.com**
 
